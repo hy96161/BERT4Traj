@@ -25,5 +25,4 @@ This repository includes:
 
 ---
 
-## 📁 Repository Structure
 
