@@ -24,5 +24,6 @@ This repository includes:
 - **Flexible reconstruction**: Supports missing location interpolation and both full-day and partial-day trajectory inference.  
 
 ---
-
+## 📚 Citation
+This work has been accepted at GIScience 2025, and the paper is available on arXiv: https://doi.org/10.48550/arXiv.2507.03062.
 
