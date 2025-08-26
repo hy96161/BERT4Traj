@@ -25,5 +25,5 @@ This repository includes:
 
 ---
 ## 📚 Citation
-This work has been accepted and published at GIScience 2025:https://doi.org/10.4230/LIPIcs.GIScience.2025.8
+This work has been accepted and published at GIScience 2025:Hao Yang, Angela Yao, Christopher C. Whalen, and Gengchen Mai. BERT4Traj: Transformer-Based Trajectory Reconstruction for Sparse Mobility Data. In 13th International Conference on Geographic Information Science (GIScience 2025). Leibniz International Proceedings in Informatics (LIPIcs), Volume 346, pp. 8:1-8:9, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2025) https://doi.org/10.4230/LIPIcs.GIScience.2025.8
 
