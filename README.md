@@ -25,5 +25,5 @@ This repository includes:
 
 ---
 ## 📚 Citation
-This work has been accepted at GIScience 2025, and the paper is available on arXiv: https://doi.org/10.48550/arXiv.2507.03062.
+This work has been accepted and published at GIScience 2025:https://doi.org/10.4230/LIPIcs.GIScience.2025.8
 
